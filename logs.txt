@@ -1,0 +1,36 @@
+[16:38:40] Adressbook has been created!
+[16:39:59] Adressbook has been created!
+[16:40:33] Adressbook has been created!
+[16:40:54] Adressbook has been created!
+[16:43:16] Adressbook has been created!
+[16:46:15] Adressbook has been created!
+[16:47:12] Adressbook has been created!
+[16:50:27] Adressbook has been created!
+[16:51:17] Adressbook has been created!
+[16:51:33] Adressbook has been created!
+[16:52:22] Adressbook has been created!
+[16:53:18] Adressbook has been created!
+[16:55:22] Adressbook has been created!
+[17:13:05] Adressbook has been created!
+[17:18:43] Contact John has been added.
+[17:18:43] Addressbook has been saved!
+[17:24:42] Addressbook has been loaded!
+[17:25:06] Contact John has been added.
+[17:25:06] Addressbook has been saved!
+[17:28:06] Addressbook has been loaded!
+[17:28:30] Contact John has been added.
+[17:28:30] Addressbook has been saved!
+[17:33:06] Contact John has been edited!
+[17:33:06] Addressbook has been saved!
+[17:42:30] Addressbook has been loaded!
+[17:42:54] Addressbook has been loaded!
+[17:45:15] Addressbook has been loaded!
+[17:45:23] Addressbook has been loaded!
+[17:47:09] Contact John has been added.
+[17:47:09] Addressbook has been saved!
+[17:48:36] Contact John has been removed!
+[17:48:36] Contact John has been removed!
+[17:48:36] Addressbook has been saved!
+[17:49:34] Addressbook has been loaded!
+[17:51:04] Contact Jane has been added.
+[17:51:04] Addressbook has been saved!
