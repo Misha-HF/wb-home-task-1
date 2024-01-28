@@ -10,6 +10,7 @@ if __name__ == "__main__":
     bot.book.load("auto_save")
     commands = ['Add', 'Search', 'Edit', 'Load', 'Remove', 'Save', 'Congratulate', 'View', 'Exit']
 
+
     while True:
         action = interface.bot_input('Type help for list of commands or enter your command\n').strip().lower()
         if action == 'help':
