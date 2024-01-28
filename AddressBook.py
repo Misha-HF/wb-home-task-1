@@ -159,6 +159,7 @@ class AddressBook(UserList):
             week_start = now - timedelta(days=current_weekday - 5)
         return [week_start.date(), week_start.date() + timedelta(days=7)]
 
+
     def congratulate(self):
         result = []
         WEEKDAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
